@@ -1,5 +1,5 @@
 """Component 2 (How much) v2
-Use try/accept and pull error message out of the lo"""
+Use try/accept and pull error message out of the loop"""
 
 error = "Please enter a whole number between 1 and 10\n"
 valid = False
