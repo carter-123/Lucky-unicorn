@@ -1,4 +1,4 @@
-"""Component 3 (random tokens) v1
+"""Component 3 (random tokens) v2
 Calculate user balance based on random selection of tokens"""
 
 import random
